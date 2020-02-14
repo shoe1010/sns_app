@@ -1,0 +1,15 @@
+current directory: /home/shu/workspace/nutfes_joho/rails/sns_app/vendor/bundler/gems/websocket-driver-0.7.1/ext/websocket-driver
+/home/shu/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20200214-4509-1wevdfo.rb extconf.rb
+creating Makefile
+
+current directory: /home/shu/workspace/nutfes_joho/rails/sns_app/vendor/bundler/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/shu/workspace/nutfes_joho/rails/sns_app/vendor/bundler/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/shu/workspace/nutfes_joho/rails/sns_app/vendor/bundler/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20200214-4509-1sg2wjj
